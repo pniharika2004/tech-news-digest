@@ -108,4 +108,4 @@ Save and exit. The script will now run every morning.
 
 ## License
 
-MIT © Your Name
+MIT © Niharika
